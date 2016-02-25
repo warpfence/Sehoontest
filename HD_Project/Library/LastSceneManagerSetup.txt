@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/FunctionTest/v.unity
+  isLoaded: 1
+  isActive: 1
